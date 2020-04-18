@@ -13,6 +13,6 @@ Q:how can I use it?
 
 A:download the file and test it out in python
 
-Q:what did you ue to make this?
+Q:what did you use to make this?
 
 A:python 
