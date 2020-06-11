@@ -6,7 +6,7 @@ def convert():
   def doc():
    fh = open('word.txt', 'w')
    fh.write(first_word + second_word + extra_word)
-   fh.write("made with word makerhttps://github.com/gamemake-eng/word-maker") 
+   fh.write("made with word maker https://github.com/gamemake-eng/word-maker") 
 
 
   def tts():
